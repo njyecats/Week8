@@ -1,0 +1,73 @@
+#index {
+    background-color: goldenrod;
+}
+#pics {
+    background-color: cornflowerblue;
+}
+#fav {
+    background-color: 	darkkhaki;
+}
+#contact {
+    background-color: darksalmon;
+}
+#plac {
+    background-color: seagreen;
+}
+
+img {
+    height: 200px; 
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(80, 80, 30);
+}
+
+tr:hover {
+    background-color: whitesmoke;
+}
+
+#rocks, #flowers, #hi, #rainbow, #peacock, #lake {
+    height: 500px;
+    padding: 75px;
+    margin: auto;
+}
+
+h1 {
+    color: darkblue;
+  }
+ 
+  .forma {
+    width: 200px; height: 25px;
+  }
+  .formb {
+    width: 300px; height: 25px;
+  }
+  .formc {
+    width: 400px; height: 50px;
+  }
+  .formd {
+    width: 300px; height: 50px;
+  }
+
+  #melist {
+    border: 1px solid black;
+    width: 33%;
+    color: rgb(28, 155, 91)
+  }
+  #meow {
+    color: bisque;
+  }
+
+  a:visited {
+    color: pink
+  }
