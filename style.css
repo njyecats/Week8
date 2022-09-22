@@ -62,12 +62,14 @@ h1 {
   #melist {
     border: 1px solid black;
     width: 33%;
-    color: rgb(28, 155, 91)
+    color: rgb(6, 53, 29)
   }
   #meow {
-    color: bisque;
+    color: rgb(65, 42, 16);
   }
 
   a:visited {
-    color: pink
+    color: rgb(194, 110, 32)
   }
+
+  
